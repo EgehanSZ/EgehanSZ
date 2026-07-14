@@ -15,7 +15,6 @@
 - 💼 Developing enterprise CRM solutions with **Creatio**
 - 🌐 Building Full-Stack web applications using **React, Node.js & PostgreSQL**
 - 🤖 Working on a **TÜBİTAK 2209-A** supported AI project for crime scene report analysis and 3D visualization
-- 📚 Currently improving my knowledge in **LLMs, NLP and Machine Learning**
 
 ---
 
