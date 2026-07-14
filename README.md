@@ -78,47 +78,8 @@ I'm passionate about building enterprise software, full-stack web applications a
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EgehanSZ&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgehanSZ&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EgehanSZ&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EgehanSZ&theme=github_dark"/>
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgehanSZ&theme=github_dark"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-🔹 **AI-powered Crime Scene Report Analysis & 3D Visualization**
-
-- NLP
-- Claude API
-- QLoRA
-- Hugging Face
-- Unity 3D
-- Python
-
-🔹 **Enterprise CRM Solutions**
-
-- Creatio
-- C#
-- JavaScript
-- REST / SOAP APIs
-- BPMN
-- PostgreSQL
-
-🔹 **Academic Recruitment System**
-
-- React
-- Node.js
-- MongoDB
-- AWS S3
 
 ---
 
