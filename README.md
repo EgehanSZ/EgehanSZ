@@ -49,9 +49,7 @@
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/EgehanSZ/EgehanSZ/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EgehanSZ&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
