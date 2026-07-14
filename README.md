@@ -82,6 +82,7 @@ I'm passionate about building enterprise software, full-stack web applications a
 </p>
 
 ---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgehanSZ&theme=github_dark"/>
 
 ## 🤝 Connect With Me
 
