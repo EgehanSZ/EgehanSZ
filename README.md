@@ -49,12 +49,6 @@
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/EgehanSZ/EgehanSZ/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-<img src="https://streak-stats.demolab.com?user=EgehanSZ&theme=github-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🤝 Connect with Me
