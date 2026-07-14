@@ -77,12 +77,11 @@ I'm passionate about building enterprise software, full-stack web applications a
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgehanSZ&theme=github_dark"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgehanSZ&theme=github_dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=EgehanSZ&show_icons=true&theme=github_dark&rank_icon=percentile&hide_border=true"/>
 
 ---
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgehanSZ&theme=github_dark"/>
 
 ## 🤝 Connect With Me
 
